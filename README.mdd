@@ -1,0 +1,30 @@
+# COCS 314 Project
+
+## Student Information
+Name: YOUR NAME
+Course: COCS 314
+
+## Project Title
+Vendors Unite
+
+## Project Description
+This project is a web-based application created for the COCS 314 Web Programming course. The website allows users to interact with a vendor marketplace system using HTML, CSS, and JavaScript. Features include adding items to a cart, displaying products, and interactive page elements using DOM manipulation and JavaScript events.
+
+The project demonstrates understanding of:
+- HTML page structure
+- CSS styling
+- JavaScript functions
+- DOM manipulation
+- Event handling
+- Arrays and user interaction
+
+## How To Run The Project
+1. Download the project files
+   2. Open the folder
+3. Double-click index.html
+4. The website will open in your browser
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
